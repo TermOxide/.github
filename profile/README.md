@@ -2,14 +2,6 @@
 
 Open source projects built with a focus on performance, simplicity, and reliability.
 
----
-
-### Pinned projects
-
-<!-- Pin these 4 repos from your org profile settings on GitHub -->
-
----
-
 ### Get involved
 
 - Read the [Code of Conduct](./../CODE_OF_CONDUCT.md)
