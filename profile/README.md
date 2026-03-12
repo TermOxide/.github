@@ -1,4 +1,4 @@
-# Oxidize
+# TermOxide
 
 Open source projects built with a focus on performance, simplicity, and reliability.
 
